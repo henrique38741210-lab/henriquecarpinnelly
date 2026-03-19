@@ -20,9 +20,7 @@ English for reading, writing and speaking (Advanced).
   <a href="https://www.tiktok.com/@carpinnelly">
     <img src="https://img.shields.io/badge/TikTok-@carpinnelly-000000?style=for-the-badge&logo=tiktok" />
   </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
@@ -73,4 +71,3 @@ English for reading, writing and speaking (Advanced).
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
-
